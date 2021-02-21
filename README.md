@@ -21,10 +21,10 @@
 </p>
 </div>
 <div style="display: inline; width=100%">
-  <img style="margin: 10px 0 0 0" align="left" alt="Newton's method" width=24%  height=140px src="https://tiominho.github.io/tiominho.github.io/static/res/misc/newton.gif" />
-  <img style="margin: 10px 0 0 0" align="left" alt="An Extended Kalman Filter" width=24% height=140px  src="https://tiominho.github.io/tiominho.github.io/static/res/misc/car.gif" />
-  <img style="margin: 10px 0 0 0" align="left" alt="Q-Learning for GridWorld" width=24% height=140px   alt="GIF" src="https://tiominho.github.io/tiominho.github.io/static/res/misc/gridWorld_Q.gif" />
-  <img style="margin: 10px 0 0 0" align="left" alt="LQR for a CartPole" width=24% height=140px  src="https://tiominho.github.io/tiominho.github.io/static/res/misc/Cartpole_LQR.gif" />
+  <img style="margin: 10px 0 0 0" alt="Newton's method" width=23%  height=140px src="https://tiominho.github.io/tiominho.github.io/static/res/misc/newton.gif" />
+  <img style="margin: 10px 0 0 0" alt="An Extended Kalman Filter" width=23% height=140px  src="https://tiominho.github.io/tiominho.github.io/static/res/misc/car.gif" />
+  <img style="margin: 10px 0 0 0" alt="Q-Learning for GridWorld" width=23% height=140px   alt="GIF" src="https://tiominho.github.io/tiominho.github.io/static/res/misc/gridWorld_Q.gif" />
+  <img style="margin: 10px 0 0 0" alt="LQR for a CartPole" width=23% height=140px  src="https://tiominho.github.io/tiominho.github.io/static/res/misc/Cartpole_LQR.gif" />
 </div>
 </div>
 

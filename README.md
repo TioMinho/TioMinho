@@ -4,7 +4,7 @@
 
 
 <h2>👨‍💻 Hi! I'm Minho.</h2>
-<img width="70px" align='right' src="https://github.com/TioMinho/TioMinho/blob/main/undertale_doggo.gif">
+<img width="70px" align='right' src="https://github.com/TioMinho/TioMinho/blob/master/undertale_doggo.gif?raw=true">
 
 
 [![Gmail Badge](https://img.shields.io/badge/otacilio.neto@aalto.fi-white?style=flat&logo=Gmail&link=mailto:otacilio.neto@aalto.fi)](mailto:otacilio.neto@aalto.fi)

@@ -2,30 +2,27 @@
 <div>
 <div style="display:block; width=100%">
 
-<h2>👨‍💻 Hi! I'm Minho.</h2>
 
-<div>
-<div><a href="mailto:minhotmog@alu.ufc.br"><img style="margin-left:5px; margin-right: 5px" align="left" width="30px" alt="Minho | E-mail" src="https://tiominho.github.io//static/res/imgs/icons/email_black.png"></a></div>
-<div><a href="https://twitter.com/_tioMinho"><img style="margin-right: 5px" align="left" width="30px" alt="Minho | Twitter" src="https://tiominho.github.io/static/res/imgs/icons/twitter_black.png"></a></div>
-<div><a href="https://www.researchgate.net/profile/Otacilio_Neto5"><img style="margin-right: 5px" align="left" width="30px" alt="Minho | Research Gate"src="https://tiominho.github.io/static/res/imgs/icons/regate_black.png"></a></div>
-<div><a href="http://lattes.cnpq.br/1208872258439270"><img style="margin-right: 5px" align="left" width="30px" alt="Minho | Lattes" src="https://tiominho.github.io/static/res/imgs/icons/lattes_black.png"></a></div>
-</div>
-<br />
-<br />
+<h2>👨‍💻 Hi! I'm Minho.</h2>
+<img width="70px" align='right' src="https://github.com/TioMinho/TioMinho/blob/main/undertale_doggo.gif">
+
+
+[![Gmail Badge](https://img.shields.io/badge/otacilio.neto@aalto.fi-white?style=flat&logo=Gmail&link=mailto:otacilio.neto@aalto.fi)](mailto:otacilio.neto@aalto.fi)
+[![Twitter badge](https://img.shields.io/badge/@__tioMinho-white?style=flat&logo=Twitter)](https://twitter.com/intent/follow?screen_name=_tioMinho)
+[![Researchgate badge](https://img.shields.io/badge/Research%20Gate-white?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Otacilio-Neto-2)
+[![Scholar badge](https://img.shields.io/badge/Google%20Scholar-white?style=flat&logo=googlescholar)](https://scholar.google.fi/citations?user=lQydCNkAAAAJ)
+[![GitHub badge](https://img.shields.io/github/followers/tiominho?label=Follow&style=social)](https://github.com/tiominho/?tab=follow)
+
 
 <p>
-  I am currently a Master's student at the <a href="http://www.ufc.br/">Federal University of Ceará</a> (UFC, Brazil). <br>
-  My research interests focus on the fields of <b><a href="https://en.wikipedia.org/wiki/Optimal_control">Optimal Control Theory</a></b> and <b><a href="https://en.wikipedia.org/wiki/Machine_learning">Statistical Machine Learning</a></b>, with applications on the optimal control, identification, and estimation of large-scale systems. Marginally, I also have an interest in algorithmic problem solving and graph theory. <br>
+I am a PhD candidate at the Process Control and Automation group of Aalto University (Finland). <br>
 
-  For more information, publications and general stuff, check out my <a href="https://tiominho.github.io/">personal website</a>!
+My research is on (optimal+robust) distributed control theory, with applications on the control and estimation of large-scale systems. Currently checking networked (bio)chemical processes. I also like noisy music, the concept of dogs, and old video-games.<br>
+
+For more information, publications and general stuff, check out my <a href="https://tiominho.github.io/">personal website</a>!
 </p>
-</div>
-<div style="display: inline; width=100%">
-  <img style="margin: 10px 0 0 0" alt="Newton's method" width=23%  height=140px src="https://tiominho.github.io/static/res/misc/newton.gif" />
-  <img style="margin: 10px 0 0 0" alt="An Extended Kalman Filter" width=23% height=140px  src="https://tiominho.github.io/static/res/misc/car.gif" />
-  <img style="margin: 10px 0 0 0" alt="Q-Learning for GridWorld" width=23% height=140px   alt="GIF" src="https://tiominho.github.io/static/res/misc/gridWorld_Q.gif" />
-  <img style="margin: 10px 0 0 0" alt="LQR for a CartPole" width=23% height=140px  src="https://tiominho.github.io/static/res/misc/Cartpole_LQR.gif" />
-</div>
+
 </div>
 
----
+</div>
+

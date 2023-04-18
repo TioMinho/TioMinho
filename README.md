@@ -3,7 +3,7 @@
 <div style="display:block; width=100%">
 
 
-<h2>👨‍💻 Hi! I'm Minho.</h2>
+<h1>👨‍💻 Hi! I'm Minho.</h1>
 <img width="70px" align='right' src="https://github.com/TioMinho/TioMinho/blob/master/undertale_doggo.gif?raw=true">
 
 
@@ -18,6 +18,8 @@
 I am a PhD candidate at the Process Control and Automation group of Aalto University (Finland). <br>
 
 My research is on (optimal+robust) distributed control theory, with applications on the control and estimation of large-scale systems. Currently checking networked (bio)chemical processes. I also like noisy music, the concept of dogs, and old video-games.<br>
+
+I am the maintainer of the [SystemLevelControl.jl](https://github.com/aaltoKEPO/SystemLevelControl.jl) package for controlling large-scale systems in Julia using the System Level Synthesis approach. Please, check it out!
 
 For more information, publications and general stuff, check out my <a href="https://tiominho.github.io/">personal website</a>!
 </p>

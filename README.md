@@ -5,7 +5,7 @@
 <h1>👨‍💻 Hi! I'm Minho.</h1>
 <img width="70px" align='right' src="https://github.com/TioMinho/TioMinho/blob/master/undertale_doggo.gif?raw=true">
 
-[![Gmail Badge](https://img.shields.io/badge/otacilio.neto@aalto.fi-white?style=flat&logo=Gmail&link=mailto:otacilio.bneto@pm.me)](mailto:otacilio.bneto@pm.me)
+[![Gmail Badge](https://img.shields.io/badge/otacilio.bneto@pm.me-white?style=flat&logo=Gmail&link=mailto:otacilio.bneto@pm.me)](mailto:otacilio.bneto@pm.me)
 [![Twitter badge](https://img.shields.io/badge/@__tioMinho-white?style=flat&logo=Twitter)](https://twitter.com/intent/follow?screen_name=_tioMinho)
 [![Researchgate badge](https://img.shields.io/badge/Research%20Gate-white?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Otacilio-Neto-2)
 [![Scholar badge](https://img.shields.io/badge/Google%20Scholar-white?style=flat&logo=googlescholar)](https://scholar.google.fi/citations?user=lQydCNkAAAAJ)

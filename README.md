@@ -11,9 +11,9 @@
 [![GitHub badge](https://img.shields.io/github/followers/tiominho?label=Follow&style=social)](https://github.com/tiominho/?tab=follow)
 
 <p>
-I am researcher on (optimal+robust) control, optimization, and game theory, currently checking networked systems and (bio)chemical processes. I also like noisy music, the concept of dogs, and old video-games.<br>
+I am researcher and developer working on (optimal+robust) control, optimization, and game theory, with applications to distributed energy systems and (bio)chemical/industrial processes. I am the main maintainer of the [KoiraLabs](https://github.com/KoiraLabs), a small project developing lightweight software for automation and control applications. I also like noisy music, the concept of dogs, and old video-games. <br>
 
-For more information, publications and general stuff, check out my <a href="https://tiominho.github.io/">personal website</a>!
+For more information, publications and general stuff, check out my [website](https://tiominho.github.io/)!
 </p>
 
 </div>

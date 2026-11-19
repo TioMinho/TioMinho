@@ -10,7 +10,7 @@
 [![Scholar badge](https://img.shields.io/badge/Google%20Scholar-white?style=flat&logo=googlescholar)](https://scholar.google.fi/citations?user=lQydCNkAAAAJ)
 [![GitHub badge](https://img.shields.io/github/followers/tiominho?label=Follow&style=social)](https://github.com/tiominho/?tab=follow)
 
-I am researcher and developer working on (optimal+robust) control, optimization, and game theory, with applications to distributed energy systems and (bio)chemical/industrial processes. I am the main maintainer of the [KoiraLabs](https://github.com/KoiraLabs/), a small project developing lightweight software for automation and control applications. I also like noisy music, the concept of dogs, and old video-games. <br>
+I am a researcher and software developer working on control, optimization, and game theory, with applications to distributed energy systems and (bio)chemical/industrial processes. I am the main maintainer of the [KoiraLabs](https://github.com/KoiraLabs/), a small project developing lightweight software for control and automation. I also like noisy music, the concept of dogs, and old video-games. <br>
 
 For more information, publications and general stuff, check out my [website](https://tiominho.github.io/)!
 
